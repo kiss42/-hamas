@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/-hamas/static/css/main.235d4ffc.css",
-    "main.js": "/-hamas/static/js/main.da3c9650.js",
+    "main.js": "/-hamas/static/js/main.e4d797c0.js",
     "index.html": "/-hamas/index.html",
     "main.235d4ffc.css.map": "/-hamas/static/css/main.235d4ffc.css.map",
-    "main.da3c9650.js.map": "/-hamas/static/js/main.da3c9650.js.map"
+    "main.e4d797c0.js.map": "/-hamas/static/js/main.e4d797c0.js.map"
   },
   "entrypoints": [
     "static/css/main.235d4ffc.css",
-    "static/js/main.da3c9650.js"
+    "static/js/main.e4d797c0.js"
   ]
 }
